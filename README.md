@@ -1,4 +1,4 @@
-https://www.bing.com/images/search?view=detailV2&ccid=mIYXYzq0&id=9E16CC304044B54C5326956470D0F2C7CAA99EC3&thid=OIP.mIYXYzq026Q8PbpztvGqwwHaB2&mediaurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC5616AQFKzK38Is8png%2Fprofile-displaybackgroundimage-shrink_200_800%2F0%2F1610575984382%3Fe%3D2147483647%26v%3Dbeta%26t%3DUwLBK_cJNF0Cle9ISUgmNxSnJBBCUex3yoC5jkDKnrU&exph=200&expw=800&q=data+science+animation+gif+cover+landscape&simid=607994222401240923&form=IRPRST&ck=6478C0FB93692024816C947AAE9E7FEA&selectedindex=7&ajaxhist=0&ajaxserp=0&vt=0&sim=11&pivotparams=insightsToken%3Dccid_QR8%252FBi7h*cp_680B9BB6C1D7244DD153E37DED62CCEB*mid_B1944EDF52C38319BA34D64A0312C75CC0ED0CB8*simid_608039508495781195*thid_OIP.QR8!_Bi7h-PRPGnhHmHseSwAAAA&iss=VSI&ajaxhist=0&ajaxserp=0
+https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif
 <h1 align="center">Hi 👋, I'm Dipadyuti Saha</h1>
 <h3 align="center">Data Enthusiast from India</h3>
 
