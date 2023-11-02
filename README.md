@@ -1,9 +1,9 @@
 ![MasterHead](https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif)
 <h1 align="center">Hi 👋, I'm Dipadyuti Saha</h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center">Data Enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipadyuti7 &label=Profile%20views&color=0e75b6&style=flat" alt="dipadyuti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhasaha&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikha" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/dipadyuti-saha-29553460" target="_blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="----------" height="40" width="40" /></a> </p>
 
